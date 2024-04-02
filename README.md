@@ -1,6 +1,6 @@
 # Reconhecimento Facial
 
-# Comandos para rodar a aplicação
+### Comandos para rodar a aplicação
 
 ```bash
 # Instale as dependencias
